@@ -44,7 +44,7 @@ nav ul li a {
 
 /* Hero Section */
 .hero {
-    background-image: url('images\landing.jpg');
+    background-image: url(/images/landing.jpg);
     background-size: cover;
     background-position: center;
     height: 400px;
